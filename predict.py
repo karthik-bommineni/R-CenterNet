@@ -13,7 +13,7 @@ import numpy as np
 import torch.nn as nn
 #from resnet_dcn import ResNet
 #from dlanet_dcn import DlaNet
-#from dlanet import DlaNet
+from dlanet import DlaNet
 from resnet import ResNet
 from Loss import _gather_feat
 from PIL import Image, ImageDraw

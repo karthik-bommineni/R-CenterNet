@@ -14,6 +14,7 @@ import numpy as np
 #from resnet_dcn import ResNet
 #from dlanet_dcn import DlaNet
 from resnet import ResNet
+from dlanet import DlaNet
 import matplotlib.pyplot as plt
 from predict import pre_process, ctdet_decode, post_process, merge_outputs
 
